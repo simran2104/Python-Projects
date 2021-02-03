@@ -6,6 +6,6 @@ In this I have created a "Word Cloud" from a text by writing a script. This scri
 
 
 ## For Example:
-![Image](https://github.com/simran2104/Word-Cloud/blob/master/download.png)
+![Image](https://github.com/simran2104/Python-Projects/blob/main/Word-Cloud/download.png)
 
 
