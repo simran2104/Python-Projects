@@ -142,5 +142,8 @@ In this I have created a "Word Cloud" from a text by writing a script. This scri
   
 <img src="https://github.com/simran2104/Word-Cloud/blob/master/download.png">
 </p>
-
+<br>
+<br><br>
+<h4 align="center">Thanks for Reading :)<br><br>
+*********************</h4>
 </p>
