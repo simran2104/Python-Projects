@@ -62,4 +62,23 @@ This project detects a face from a photo or any image.
   <img src="https://github.com/simran2104/Python-Projects/blob/main/Face-Detection-through-camera/Output.png" width=400 height=300/>
   </p>
 
+
+
+<a href="https://github.com/simran2104/Python-Projects/tree/main/GUI_calculator"><h3>8. GUI Calculator</h3></a>
+<p>A Calculator using Tk GUI toolkit Framework in Python.</p>
+<p align='center'>
+<img src="https://github.com/simran2104/Python-Projects/blob/main/GUI_calculator/calculator.png"/></p>
+
+
+<a href="https://github.com/simran2104/Python-Projects/tree/main/Motion-Detector"><h3>11. Motion Detector</h3></a>
+<p>This projects detects the change in the motion through the camera.</p>
+
+<h4>👉We have a Problem statement of a company:</h4>
+ <p align='center'>
+  <img src="https://github.com/simran2104/Python-Projects/blob/main/Motion-Detector/Problem.png" width=700 height=350/>
+  <p>
+
+
+
 </p>
+
