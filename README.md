@@ -40,7 +40,16 @@ This is a type of GUI which is made in Python using "Random" library. It just sh
 </p>
 
 
-<a href="https://github.com/simran2104/Python-Projects/tree/main/Dictionary"><h3>6. Dictionary</h3></a>
+<a href="https://github.com/simran2104/Python-Projects/tree/main/Screen_pet"><h3>6. Screen Pet</h3></a>
+<p>
+This is basically a GUI of a pet made in Python using library "Tkinter". The pet will blink its eyes after a fixed interval. The very moment if the pointer hover on it, it starts blushing.
+</p>
+<p align="center">
+  <img src="https://github.com/simran2104/Python-Projects/blob/main/Screen_pet/demo.gif" height="300">
+  </p>
+
+
+<a href="https://github.com/simran2104/Python-Projects/tree/main/Dictionary"><h3>7. Dictionary</h3></a>
 <p>
 This is the simple dictionary made in Python using libraries: "json" and "difflib". In this, user is asked with a word of which he wants to know the meaning of. And then using "data.json" file, he will be get to know its meaning.
 <p>
@@ -49,7 +58,7 @@ This is the simple dictionary made in Python using libraries: "json" and "diffli
 </p>
 
 
-<a href="https://github.com/simran2104/Python-Projects/tree/main/Face-Detection-of-an-image"><h3>7. Face Detection Through Camera</h3></a>
+<a href="https://github.com/simran2104/Python-Projects/tree/main/Face-Detection-of-an-image"><h3>8. Face Detection Through Camera</h3></a>
 <p>This Project Detects faces that comes before the camera.
 </p>
 <h4>👉This is how it detects face from the photo before the camera:</h4>
@@ -60,10 +69,22 @@ This is the simple dictionary made in Python using libraries: "json" and "diffli
 
 
 
-<a href="https://github.com/simran2104/Python-Projects/tree/main/GUI_calculator"><h3>8. GUI Calculator</h3></a>
+<a href="https://github.com/simran2104/Python-Projects/tree/main/GUI_calculator"><h3>9. GUI Calculator</h3></a>
 <p>A Calculator using Tk GUI toolkit Framework in Python.</p>
-<p align='center'>
-<img src="https://github.com/simran2104/Python-Projects/blob/main/GUI_calculator/calculator.png"/></p>
+<p align="center">
+<img src="https://github.com/simran2104/Python-Projects/blob/main/GUI_calculator/demo.gif" >
+</p>
+
+
+
+<a href="https://github.com/simran2104/Python-Projects/tree/main/Match_Maker"><h3>10. Match Maker</h3></a>
+<h1 align="center"</h1>
+<p>
+This is the small game made in Python using libraries "random", "time", "tkinter". In the given GUI, different symbols will be provided user has to recognise the symbols with their places and match them.
+</p>
+<p align="center">
+<img src="https://github.com/simran2104/Python-Projects/blob/main/Match_Maker/demo.gif" height="450">
+</p>
 
 
 <a href="https://github.com/simran2104/Python-Projects/tree/main/Motion-Detector"><h3>11. Motion Detector</h3></a>
@@ -74,6 +95,15 @@ This is the simple dictionary made in Python using libraries: "json" and "diffli
   <img src="https://github.com/simran2104/Python-Projects/blob/main/Motion-Detector/Problem.png" width=700 height=350/>
   <p>
 
+
+<a href="https://github.com/simran2104/Python-Projects/tree/main/Hangman"><h3>12. Hangman</h3></a>
+<h1 align="center"></h1>
+<p>
+This is a small game made in Python using library "random". In this game user has to guess a word with a alphabets. Everytime, the user is asked for the alphabet, if the alphabet is in the word then it is added to its required position otherwise one live will be lose. Total 9 lives be provided.
+</p>
+<p align="center">
+<img src="https://github.com/simran2104/Python-Projects/blob/main/Hangman/demo.gif" >
+</p>
 
 
 </p>
