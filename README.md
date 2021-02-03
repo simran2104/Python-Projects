@@ -96,7 +96,6 @@ This is the small game made in Python using libraries "random", "time", "tkinter
 
 
 <a href="https://github.com/simran2104/Python-Projects/tree/main/Hangman"><h3>12. Hangman</h3></a>
-<h1 align="center"></h1>
 <p>
 This is a small game made in Python using library "random". In this game user has to guess a word with a alphabets. Everytime, the user is asked for the alphabet, if the alphabet is in the word then it is added to its required position otherwise one live will be lose. Total 9 lives be provided.
 </p>
@@ -104,6 +103,33 @@ This is a small game made in Python using library "random". In this game user ha
 <img src="https://github.com/simran2104/Python-Projects/blob/main/Hangman/demo.gif" >
 </p>
 
+
+<a href="https://github.com/simran2104/Python-Projects/tree/main/Hangman"><h3>13. Slither-The Snake Game</h3></a>
+<p>
+The game involves controlling a single block or snakehead by turning only left or right by ninety degrees until you manage to eat an apple. When you get the apple, the Snake grows an extra block or body segment.
+If, or rather when, the snake bumps into the edge of the screen or accidentally eats himself the game is over. The more apples the snake eats the higher the score.</p>
+<p align="center"> 
+<img src="https://github.com/simran2104/Python-Projects/blob/main/Slither-The_Snake_Game/demo.gif">
+</p>
+
+
+
+<a href="https://github.com/simran2104/Python-Projects/tree/main/SmartCalculator"><h3>14. Smart Calculator</h3></a>
+<p>This is the Smart Calculator made in Python using library "tkinter". In this user is asked with the action he wants to perform and everytime he write, the action will be performed. 
+  </p>
+  <p align="center">
+  <img src="https://github.com/simran2104/Python-Projects/blob/main/SmartCalculator/demo.gif">
+  </p>
+
+
+
+<a href="https://github.com/simran2104/Python-Projects/tree/main/Tictactoe"><h3>15. TicTacToe</h3></a>
+<p>
+Tic-tac-toe is a fun game that you can play any time and anywhere as long as you have a piece of paper, a pencil, and an opponent. Tic-tac-toe is a zero sum game, which means that if both players are playing their best, that neither player will win.
+</p>
+<p align="center">
+  <img src="https://github.com/simran2104/Python-Projects/blob/main/Tictactoe/demo.gif">
+  </p>
 
 </p>
 
