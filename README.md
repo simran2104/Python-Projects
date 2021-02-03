@@ -50,4 +50,16 @@ This project detects a face from a photo or any image.
   <img src="https://github.com/simran2104/Python-Projects/blob/main/Face-Detection-of-an-image/photo.jpg" />   <img src="https://github.com/simran2104/Python-Projects/blob/main/Face-Detection-of-an-image/Output-Image.png" height=228 width=228/>
 <p>
 
+
+
+
+<a href="https://github.com/simran2104/Python-Projects/tree/main/Face-Detection-of-an-image"><h3>7. Face Detection Through Camera</h3></a>
+<p>This Project Detects faces that comes before the camera.
+</p>
+<h4>👉This is how it detects face from the photo before the camera:</h4>
+
+<p align="center">
+  <img src="https://github.com/simran2104/Python-Projects/blob/main/Face-Detection-through-camera/Output.png" width=400 height=300/>
+  </p>
+
 </p>
