@@ -78,7 +78,6 @@ This is the simple dictionary made in Python using libraries: "json" and "diffli
 
 
 <a href="https://github.com/simran2104/Python-Projects/tree/main/Match_Maker"><h3>10. Match Maker</h3></a>
-<h1 align="center"</h1>
 <p>
 This is the small game made in Python using libraries "random", "time", "tkinter". In the given GUI, different symbols will be provided user has to recognise the symbols with their places and match them.
 </p>
