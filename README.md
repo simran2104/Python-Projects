@@ -145,5 +145,5 @@ In this I have created a "Word Cloud" from a text by writing a script. This scri
 <br>
 <br><br>
 <h4 align="center">Thanks for Reading :)<br><br>
-*********************</h4>
+**********************</h4>
 </p>
