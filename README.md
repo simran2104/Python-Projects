@@ -140,7 +140,7 @@ In this I have created a "Word Cloud" from a text by writing a script. This scri
 
 <p align="center">
   
-<img src="https://github.com/simran2104/Word-Cloud/blob/master/download.png">
+<img src="https://github.com/simran2104/Python-Projects/blob/main/Word-Cloud/download.png">
 </p>
 <br>
 <br><br>
