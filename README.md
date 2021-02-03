@@ -131,5 +131,16 @@ Tic-tac-toe is a fun game that you can play any time and anywhere as long as you
   <img src="https://github.com/simran2104/Python-Projects/blob/main/Tictactoe/demo.gif">
   </p>
 
+
+
+<a href="https://github.com/simran2104/Python-Projects/tree/main/Word-Cloud"><h3>16. Word Cloud</h3></a>
+<p>Making a Word Cloud image Containing word's size based on their frequency.
+In this I have created a "Word Cloud" from a text by writing a script. This script needs to process the text, remove punctuation, ignore case and words that do not contain all alphabets, count the frequencies, and ignore uninteresting or irrelevant words. A dictionary is the output of the calculate_frequencies function. The wordcloud module will then generate the image from the dictionary.
 </p>
 
+<p align="center">
+  
+<img src="https://github.com/simran2104/Word-Cloud/blob/master/download.png">
+</p>
+
+</p>
