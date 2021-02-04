@@ -58,7 +58,13 @@ This is the simple dictionary made in Python using libraries: "json" and "diffli
 </p>
 
 
-<a href="https://github.com/simran2104/Python-Projects/tree/main/Face-Detection-of-an-image"><h3>8. Face Detection Through Camera</h3></a>
+<a href="https://github.com/simran2104/Python-Projects/tree/main/Complaint_Management_System"><h3>8. Complaint Management System</h3></a>
+<p>A Complaint Management System is a software application which is designed to take online complaints from customers and provide their solutions by some experts. It is the process of how organizations handle, manage, respond to and report customer complaints. </p>
+<p align='center'><img src="https://github.com/simran2104/Python-Projects/blob/main/Complaint_Management_System/complaint.jpg" height=250 width=300></p>
+
+
+
+<a href="https://github.com/simran2104/Python-Projects/tree/main/Face-Detection-of-an-image"><h3>9. Face Detection Through Camera</h3></a>
 <p>This Project Detects faces that comes before the camera.
 </p>
 <h4>👉This is how it detects face from the photo before the camera:</h4>
@@ -69,7 +75,7 @@ This is the simple dictionary made in Python using libraries: "json" and "diffli
 
 
 
-<a href="https://github.com/simran2104/Python-Projects/tree/main/GUI_calculator"><h3>9. GUI Calculator</h3></a>
+<a href="https://github.com/simran2104/Python-Projects/tree/main/GUI_calculator"><h3>10. GUI Calculator</h3></a>
 <p>A Calculator using Tk GUI toolkit Framework in Python.</p>
 <p align="center">
 <img src="https://github.com/simran2104/Python-Projects/blob/main/GUI_calculator/demo.gif" >
@@ -77,7 +83,7 @@ This is the simple dictionary made in Python using libraries: "json" and "diffli
 
 
 
-<a href="https://github.com/simran2104/Python-Projects/tree/main/Match_Maker"><h3>10. Match Maker</h3></a>
+<a href="https://github.com/simran2104/Python-Projects/tree/main/Match_Maker"><h3>11. Match Maker</h3></a>
 <p>
 This is the small game made in Python using libraries "random", "time", "tkinter". In the given GUI, different symbols will be provided user has to recognise the symbols with their places and match them.
 </p>
@@ -86,7 +92,7 @@ This is the small game made in Python using libraries "random", "time", "tkinter
 </p>
 
 
-<a href="https://github.com/simran2104/Python-Projects/tree/main/Motion-Detector"><h3>11. Motion Detector</h3></a>
+<a href="https://github.com/simran2104/Python-Projects/tree/main/Motion-Detector"><h3>12. Motion Detector</h3></a>
 <p>This projects detects the change in the motion through the camera.</p>
 
 <h4>👉We have a Problem statement of a company:</h4>
@@ -95,7 +101,7 @@ This is the small game made in Python using libraries "random", "time", "tkinter
   <p>
 
 
-<a href="https://github.com/simran2104/Python-Projects/tree/main/Hangman"><h3>12. Hangman</h3></a>
+<a href="https://github.com/simran2104/Python-Projects/tree/main/Hangman"><h3>13. Hangman</h3></a>
 <p>
 This is a small game made in Python using library "random". In this game user has to guess a word with a alphabets. Everytime, the user is asked for the alphabet, if the alphabet is in the word then it is added to its required position otherwise one live will be lose. Total 9 lives be provided.
 </p>
@@ -104,7 +110,7 @@ This is a small game made in Python using library "random". In this game user ha
 </p>
 
 
-<a href="https://github.com/simran2104/Python-Projects/tree/main/Hangman"><h3>13. Slither-The Snake Game</h3></a>
+<a href="https://github.com/simran2104/Python-Projects/tree/main/Hangman"><h3>14. Slither-The Snake Game</h3></a>
 <p>
 The game involves controlling a single block or snakehead by turning only left or right by ninety degrees until you manage to eat an apple. When you get the apple, the Snake grows an extra block or body segment.
 If, or rather when, the snake bumps into the edge of the screen or accidentally eats himself the game is over. The more apples the snake eats the higher the score.</p>
@@ -114,7 +120,7 @@ If, or rather when, the snake bumps into the edge of the screen or accidentally 
 
 
 
-<a href="https://github.com/simran2104/Python-Projects/tree/main/SmartCalculator"><h3>14. Smart Calculator</h3></a>
+<a href="https://github.com/simran2104/Python-Projects/tree/main/SmartCalculator"><h3>15. Smart Calculator</h3></a>
 <p>This is the Smart Calculator made in Python using library "tkinter". In this user is asked with the action he wants to perform and everytime he write, the action will be performed. 
   </p>
   <p align="center">
@@ -123,7 +129,7 @@ If, or rather when, the snake bumps into the edge of the screen or accidentally 
 
 
 
-<a href="https://github.com/simran2104/Python-Projects/tree/main/Tictactoe"><h3>15. TicTacToe</h3></a>
+<a href="https://github.com/simran2104/Python-Projects/tree/main/Tictactoe"><h3>16. TicTacToe</h3></a>
 <p>
 Tic-tac-toe is a fun game that you can play any time and anywhere as long as you have a piece of paper, a pencil, and an opponent. Tic-tac-toe is a zero sum game, which means that if both players are playing their best, that neither player will win.
 </p>
@@ -133,7 +139,7 @@ Tic-tac-toe is a fun game that you can play any time and anywhere as long as you
 
 
 
-<a href="https://github.com/simran2104/Python-Projects/tree/main/Word-Cloud"><h3>16. Word Cloud</h3></a>
+<a href="https://github.com/simran2104/Python-Projects/tree/main/Word-Cloud"><h3>17. Word Cloud</h3></a>
 <p>Making a Word Cloud image Containing word's size based on their frequency.
 In this I have created a "Word Cloud" from a text by writing a script. This script needs to process the text, remove punctuation, ignore case and words that do not contain all alphabets, count the frequencies, and ignore uninteresting or irrelevant words. A dictionary is the output of the calculate_frequencies function. The wordcloud module will then generate the image from the dictionary.
 </p>
@@ -142,6 +148,19 @@ In this I have created a "Word Cloud" from a text by writing a script. This scri
   
 <img src="https://github.com/simran2104/Python-Projects/blob/main/Word-Cloud/download.png">
 </p>
+
+
+
+<a href="https://github.com/simran2104/Python-Projects/tree/main/Registration%20form"><h3>18. Registration Form</h3></a>
+<p>
+This is the student registration form made in python using "Tkinter" library. All the details filled by user in it will be saved automatically in the Excel sheet attached to it.
+</p>
+<p align="center">
+<img src="https://github.com/simran2104/Python-Projects/blob/main/Registration%20form/Screenshot.png" height="500" width="700">
+</p>
+
+
+
 <br>
 <br><br>
 <h4 align="center">Thanks for Reading :)<br><br>
